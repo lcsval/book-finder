@@ -5,8 +5,10 @@ Application that will allow users to search for books by entering a query (Title
 - .net core 3.1
 - react
 
+***in development
+
 ## Useful links and resources
 
-You can use the [Google Books API](https://developers.google.com/books/docs/overview)
+- [Google Books API](https://developers.google.com/books/docs/overview)
 
 
